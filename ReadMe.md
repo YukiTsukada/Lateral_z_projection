@@ -6,7 +6,7 @@ This imageJ script generate stacks that sliced laterally (x-direction and y-dire
 
 
 
-## sage
+## Usage
 
 1. put data in the "Input" folder
 2. run the macro "mult_lateral_z_projection.ijm"
